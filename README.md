@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✉️ contact me: julianasantostav@gmail.com<br>💡currently learning: python</p>
+<p align="left">✉️ <br>💡currently learning: C# </p>
 
 ###
 
