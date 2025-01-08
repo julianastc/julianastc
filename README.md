@@ -25,15 +25,3 @@
 </div>
 
 ###
-
-<p align="center">about me:</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/9ipdr6e9wwl9wro8lj9eryrfh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9ipdr6e9wwl9wro8lj9eryrfh&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
