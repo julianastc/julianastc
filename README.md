@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Meu nome é Juliana, tenho 22 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FIAP. O que me atraiu na área de tecnologia foi a oportunidade de explorar as inúmeras possibilidades que ela oferece para solucionar problemas. Meu foco principal está no desenvolvimento full-stack, e no momento, estou empenhada em aprimorar minhas habilidades em C# e práticas de Devops. <br><br>Você pode entrar em contato comigo por email ou Linkedin:<br>📧 dstavares.juliana@gmail.com</p>
+<p align="left">Meu nome é Juliana, tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas pela FIAP. O que me atraiu na área de tecnologia foi a oportunidade de explorar as inúmeras possibilidades que ela oferece para solucionar problemas. Meu foco principal está no desenvolvimento full-stack, e no momento, estou empenhada em aprimorar minhas habilidades em C# e práticas de Devops. <br><br>Você pode entrar em contato comigo por email ou Linkedin:<br>📧 dstavares.juliana@gmail.com</p>
 
 ###
 
